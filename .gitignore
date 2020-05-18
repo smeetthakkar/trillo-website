@@ -2,5 +2,4 @@
 .DS_Store
 
 #Project Files
-img/
 node_modules/*
